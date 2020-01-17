@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-database",
+      "appliesTo": "sistemaAgenda_v3/database.db",
+      "type": "launch"
+    }
+  ]
+}
