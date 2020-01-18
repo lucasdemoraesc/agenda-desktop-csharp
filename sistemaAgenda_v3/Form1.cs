@@ -2,7 +2,6 @@
 using System.Data;
 using System.Data.SQLite;
 using System.Windows.Forms;
-using MetroFramework;
 using MetroFramework.Forms;
 
 namespace sistemaAgenda_v3
