@@ -1,2 +1,3 @@
-# Agenda em C#
-Agenda de contatos para desktop desenvolvida em C#
+# Agenda para contatos em C#
+
+## Don't use this
